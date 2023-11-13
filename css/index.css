@@ -296,6 +296,10 @@ h2 {
     flex-wrap: wrap;
     display: none;
   }
+    .header_icon {
+    margin-left: 40ch;
+    position: absolute;
+  }
 
   .link_rec:nth-last-child(-n + 2) {
     display: none;
